@@ -12,6 +12,7 @@ The project was implemented using the following technologies:
 
 - Java
 - Spring Boot
+- WebSocket
 - Maven (to manage dependencies and build the project)
 
 ## !Important
