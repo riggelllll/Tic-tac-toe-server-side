@@ -24,3 +24,7 @@ git clone https://github.com/your_username/your_project.git
 <br><b>OR</b> if you use IntelliJ IDEA , then click on the <b>Get from VCS</b> button on the main screen and paste the URL there.
 2. Go to the project directory.
 3. Build and run the project using Maven: <b>compile exec:java</b>
+
+## Client side
+Launch the Android application on 2 emulators and play.
+https://github.com/riggelllll/Tic-tac-toe-client-side
