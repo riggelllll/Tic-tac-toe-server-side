@@ -20,3 +20,5 @@ First you need to start the server, and then run the Android application on an e
 ## Installation and launch
 
 1. Clone the repository using the command:
+git clone https://github.com/your_username/your_project.git
+<br><b>OR</b> if you use IntelliJ IDEA , then click on the <b>Get from VCS</b> button on the main screen and paste the URL there.
