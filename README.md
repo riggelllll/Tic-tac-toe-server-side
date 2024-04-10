@@ -21,9 +21,9 @@ First you need to start the server, and then run the Android application on an e
 ## Installation and launch
 
 1. Clone the repository using the command:
-git clone https://github.com/riggelllll/Tic-tac-toe-server-side.git
+<b>git clone</b> https://github.com/riggelllll/Tic-tac-toe-server-side.git
 <br><b>OR</b> if you use IntelliJ IDEA , then click on the <b>Get from VCS</b> button on the main screen and paste the URL there.
-2. Use the following command to create a MySQL database: create database tic_tac_toe;
+2. Use the following command to create a MySQL database: <b>create database tic_tac_toe;</b>
 3. Go to the project directory.
 4. Build and run the project using Maven: <b>compile exec:java</b>
 
